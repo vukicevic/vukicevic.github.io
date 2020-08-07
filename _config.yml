@@ -23,6 +23,7 @@ email: vukicevic@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://odon.tech" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Nenad Vukicevic"
+description: "PIB: 112048752 MB: 65836807"
 
 # Build settings
 theme: minima
