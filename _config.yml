@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Odon Tech
-email: nvukicevic@odon.tech
+title: ODON Tech
+email: vukicevic@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://odon.tech" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
