@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "JOB OPENING: Data Engineer"
-excerpt_separator: <!--more-->
+title:  "Looking for Data Engineers"
 ---
 
-ODON Tech is seeking a Data Engineer. In this role, you will leverage your python coding experience to architect highly impactful data transformations and deliver these solutions to our customers in the enterprise pharmaceutical industry and biotech companies.
-<!--more-->
+ODON Tech is seeking Data Engineers. This role requires you to leverage python coding experience to architect highly impactful data transformations and deliver these solutions to our customers in the enterprise pharmaceutical industry and biotech companies.
 
 # Responsibilities
 
