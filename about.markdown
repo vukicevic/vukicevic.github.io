@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-ODON Tech is a consultancy helping your business get the most out of your development team.
+ODON Tech is a consultancy that can help your business implement cutting-edge software engineering projects while bringing out the best out of your engineering team.
