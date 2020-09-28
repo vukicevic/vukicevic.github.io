@@ -5,13 +5,13 @@
 layout: home
 ---
 
-ODON Tech provides consulting and software design services.
+ODON Tech provides consulting and software engineering services.
 
-Expertise in:
+We specialize in:
 
 * Distributed system design
 * IoT platforms
-* Datalakes
+* Data Lakes
 * Security
 * Optimization
 * Cloud solutions
