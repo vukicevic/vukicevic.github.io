@@ -17,4 +17,4 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "sudo chown -R $(whoami):$(whoami) /srv/jekyll && jekyll build --future"
+        jekyll/builder:latest /bin/bash -c "chown -R $(whoami):$(whoami) /srv/jekyll && jekyll build --future"
